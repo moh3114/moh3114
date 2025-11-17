@@ -8,20 +8,23 @@ Welcome to my GitHub profile! This README is your friendly tour guide.
 - 🌍 Based in Israel.
 
 ## 🔧 Tech Stack
-- **Languages:** JavaScript, TypeScript, Python, C++
-- **Frameworks & Tools:** React, Node.js, Express, Git, Docker
-- **Interests:** Game development, automation, system design
+- **Languages:** JavaScript, JAVA, Python, C++, Kotlin, C#, HTML, CSS.
+- **Frameworks & Tools:** React, Node.js, Express, Git.
+- **Interests:** Mobile Apps development, Web Apps Development, system design.
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moh3114&show_icons=true&theme=tokyonight)
 
 ## 🧠 What I'm Working On
 - Personal projects that solve real-world problems
-- Learning more about DevOps and cloud architectures
+- Learning more FullStack Development 
 
 ## 📫 Contact
-- Email: youremail@example.com
-- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: moh.bsoul.93@gmail.com
+- LinkedIn: ########################
+
+## 🧭 Philosophy
+I believe that the right way of thinking starts with *why* we do something, not just *how* to do it. Understanding the purpose gives every project direction and meaning.
 
 ## ✨ Fun Fact
 I believe every bug hides a story… usually a dramatic one.
