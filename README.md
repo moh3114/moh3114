@@ -13,7 +13,7 @@ Welcome to my GitHub profile! This README is your friendly tour guide.
 - **Interests:** Game development, automation, system design
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umoh3114&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moh3114&show_icons=true&theme=tokyonight)
 
 ## 🧠 What I'm Working On
 - Personal projects that solve real-world problems
